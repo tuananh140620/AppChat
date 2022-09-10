@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/Mobile/project_mobile/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Code/Mobile/project_mobile/app/src/main/res/layout/activity_message.xml" value="0.36666666666666664" />
+        <entry key="..\:/Code/Mobile/project_mobile/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
+        <entry key="..\:/Code/Mobile/project_mobile/app/src/main/res/layout/dialog_edit_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Code/Mobile/project_mobile/app/src/main/res/layout/dialog_layout_add_friend.xml" value="0.3625" />
+        <entry key="..\:/Code/Mobile/project_mobile/app/src/main/res/layout/dialog_user_profile.xml" value="0.1762917933130699" />
+        <entry key="..\:/Code/Mobile/project_mobile/app/src/main/res/layout/fragment_friend.xml" value="0.3625" />
+        <entry key="..\:/Code/Mobile/project_mobile/app/src/main/res/layout/fragment_information.xml" value="0.20520833333333333" />
+        <entry key="..\:/Code/Mobile/project_mobile/app/src/main/res/layout/fragment_mess.xml" value="0.20520833333333333" />
+        <entry key="..\:/Code/Mobile/project_mobile/app/src/main/res/layout/friend_profile.xml" value="0.33" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/Final/app/src/main/res/layout/activity_message.xml" value="0.3625" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/Final/app/src/main/res/layout/activity_sign_in.xml" value="0.3625" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/Final/app/src/main/res/layout/chat_item_left.xml" value="0.3625" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/Final/app/src/main/res/layout/chat_item_right.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/Final/app/src/main/res/layout/fragment_friend.xml" value="0.3625" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/Final/app/src/main/res/layout/fragment_information.xml" value="0.3625" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/Final/app/src/main/res/layout/fragment_mess.xml" value="0.3625" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/drawable-hdpi/img_logo_3_background.xml" value="0.3285" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/drawable/backgroud_right.xml" value="0.2665" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/drawable/background_left.xml" value="0.2665" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/drawable/login_bg.xml" value="0.3285" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/drawable/vie_bg.xml" value="0.3285" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/activity_forgot_password.xml" value="0.3625" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/activity_home.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/activity_message.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/activity_sign_in.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/activity_sign_up.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/chat_item_left.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/chat_item_right.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/dialog_edit_profile.xml" value="0.33" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/dialog_layout_add_friend.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/dialog_user_profile.xml" value="0.33" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/fragment_friend.xml" value="0.3625" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/fragment_information.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/fragment_mess.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/friend_profile.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/layout/user_list.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3285" />
+        <entry key="..\:/Users/tuana/Desktop/PRM391/Project/project_mobile-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2665" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.3828125" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/drawable-anydpi/ic_back.xml" value="0.3828125" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/drawable/backgroud_right.xml" value="0.3828125" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/drawable/background_left.xml" value="0.3828125" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/drawable/bg_dialog_1.xml" value="0.3828125" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/drawable/bg_dialog_2.xml" value="0.3828125" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/drawable/bg_dialog_3.xml" value="0.3828125" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/activity_message.xml" value="0.36666666666666664" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/activity_sign_in.xml" value="0.36666666666666664" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/chat_item_left.xml" value="0.36594202898550726" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/chat_item_right.xml" value="0.36594202898550726" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/dialog_edit_profile.xml" value="0.36186594202898553" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/dialog_layout_add_friend.xml" value="0.36666666666666664" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/dialog_user_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/fragment_friend.xml" value="0.36594202898550726" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/fragment_information.xml" value="0.36666666666666664" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/fragment_mess.xml" value="0.36666666666666664" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/friend_profile.xml" value="0.36186594202898553" />
+        <entry key="..\:/fpt9terms/Term7/prm391/appplication/Project/app/src/main/res/layout/user_list.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

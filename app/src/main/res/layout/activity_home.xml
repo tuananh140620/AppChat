@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".HomeActivity">
+
+    <RelativeLayout
+        android:id="@+id/navbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/login_bg"
+        android:layout_gravity="center">
+
+        <TextView
+            android:layout_width="400dp"
+            android:layout_height="74dp"
+            android:layout_marginRight="30dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center"
+            android:text="APP CHAT"
+            android:textSize="32dp" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/avatar_mini"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/ic_launcher_background" />
+    </RelativeLayout>
+
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/navbar"
+        android:background="@drawable/login_bg" />
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/view_paper2"
+        android:layout_width="match_parent"
+        android:layout_height="611dp"
+        android:layout_below="@id/tab_layout" />
+
+
+</RelativeLayout>

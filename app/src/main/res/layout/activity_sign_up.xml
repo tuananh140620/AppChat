@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/login_bg"
+    android:orientation="vertical"
+    tools:context=".SignUpActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SIGN UP"
+        android:gravity="center"
+        android:textSize="24sp"/>
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="358dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Username"
+        android:imeOptions="actionNext"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:background="@drawable/edit_text_bg"
+        android:paddingLeft="15dp"/>
+
+    <EditText
+        android:id="@+id/editPassword"
+        android:layout_width="358dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Password"
+        android:imeOptions="actionNext"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:background="@drawable/edit_text_bg"
+        android:paddingLeft="15dp"/>
+
+    <EditText
+        android:id="@+id/editCfPassword"
+        android:layout_width="358dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Confirm Password"
+        android:imeOptions="actionNext"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:background="@drawable/edit_text_bg"
+        android:paddingLeft="15dp"/>
+
+    <EditText
+        android:id="@+id/editEmail"
+        android:layout_width="358dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Email"
+        android:imeOptions="actionNext"
+        android:inputType="textEmailAddress"
+        android:minHeight="48dp"
+        android:background="@drawable/edit_text_bg"
+        android:paddingLeft="15dp"/>
+
+    <EditText
+        android:id="@+id/editPhone"
+        android:layout_width="358dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Phone"
+        android:imeOptions="actionNext"
+        android:inputType="textPhonetic"
+        android:minHeight="48dp"
+        android:background="@drawable/edit_text_bg"
+        android:paddingLeft="15dp"/>
+
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="134dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Sign Up"
+        android:background="@drawable/button_bg"/>
+
+
+</LinearLayout>
